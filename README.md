@@ -15,7 +15,7 @@ This is a mobile-first redesign of the Instagram login page created as part of t
 - Figma
 
 ### 📷 Preview:
-![Login Page Design](https://1drv.ms/i/c/4663935cec9b9704/EUXPuOe6PfZCuBuJmRX4Z0sBSSuImXi1TE_JIpIxUT7s9g?e=bRNs7U)
+![Login Page Design](https://1drv.ms/i/c/4663935cec9b9704/EUXPuOe6PfZCuBuJmRX4Z0sBSSuImXi1TE_JIpIxUT7s9g?e=DoobZJ)
 
 ### 🔗 Figma Design:
 [Click here to view](https://www.figma.com/design/qciVAKldXDbYRY8tlX1y3e/Instagram-Login-Page?node-id=0-1&t=TYPx47aJU4yhkUYT-1)
